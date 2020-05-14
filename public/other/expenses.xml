@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <category>
+         <id>18</id>
+         <name>General</name>
+      </category>
+      <comments_count>0</comments_count>
+      <cost>30.0</cost>
+      <created_at>2020-05-09T09:56:24Z</created_at>
+      <created_by>
+         <custom_picture>false</custom_picture>
+         <first_name>Yashwant</first_name>
+         <id>19337002</id>
+         <last_name null="true" />
+         <picture>
+            <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png</medium>
+         </picture>
+      </created_by>
+      <creation_method>split</creation_method>
+      <currency_code>INR</currency_code>
+      <date>2020-05-09T09:56:15Z</date>
+      <deleted_at null="true" />
+      <deleted_by null="true" />
+      <description>Daliya</description>
+      <details />
+      <email_reminder>false</email_reminder>
+      <email_reminder_in_advance>-1</email_reminder_in_advance>
+      <expense_bundle_id null="true" />
+      <friendship_id null="true" />
+      <group_id>18918469</group_id>
+      <id>984116194</id>
+      <next_repeat null="true" />
+      <payment>false</payment>
+      <receipt>
+         <large null="true" />
+         <original null="true" />
+      </receipt>
+      <repayments>
+         <element>
+            <amount>15.0</amount>
+            <from>32763124</from>
+            <to>19337002</to>
+         </element>
+      </repayments>
+      <repeat_interval>never</repeat_interval>
+      <repeats>false</repeats>
+      <transaction_confirmed>false</transaction_confirmed>
+      <transaction_id null="true" />
+      <transaction_method>offline</transaction_method>
+      <updated_at>2020-05-09T09:56:24Z</updated_at>
+      <updated_by null="true" />
+      <users>
+         <element>
+            <net_balance>-15.0</net_balance>
+            <owed_share>15.0</owed_share>
+            <paid_share>0.0</paid_share>
+            <user>
+               <first_name>Kamaljit</first_name>
+               <id>32763124</id>
+               <last_name>Singh</last_name>
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>32763124</user_id>
+         </element>
+         <element>
+            <net_balance>15.0</net_balance>
+            <owed_share>15.0</owed_share>
+            <paid_share>30.0</paid_share>
+            <user>
+               <first_name>Yashwant</first_name>
+               <id>19337002</id>
+               <last_name null="true" />
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>19337002</user_id>
+         </element>
+      </users>
+   </element>
+   <element>
+      <category>
+         <id>12</id>
+         <name>Groceries</name>
+      </category>
+      <comments_count>0</comments_count>
+      <cost>217.0</cost>
+      <created_at>2020-05-09T09:56:05Z</created_at>
+      <created_by>
+         <custom_picture>false</custom_picture>
+         <first_name>Yashwant</first_name>
+         <id>19337002</id>
+         <last_name null="true" />
+         <picture>
+            <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png</medium>
+         </picture>
+      </created_by>
+      <creation_method>split</creation_method>
+      <currency_code>INR</currency_code>
+      <date>2020-05-09T09:51:13Z</date>
+      <deleted_at null="true" />
+      <deleted_by null="true" />
+      <description>Milk 5pkt, papad, biscuit</description>
+      <details />
+      <email_reminder>true</email_reminder>
+      <email_reminder_in_advance null="true" />
+      <expense_bundle_id null="true" />
+      <friendship_id null="true" />
+      <group_id>18918469</group_id>
+      <id>984116038</id>
+      <next_repeat null="true" />
+      <payment>false</payment>
+      <receipt>
+         <large null="true" />
+         <original null="true" />
+      </receipt>
+      <repayments>
+         <element>
+            <amount>54.25</amount>
+            <from>32763083</from>
+            <to>19337002</to>
+         </element>
+         <element>
+            <amount>54.25</amount>
+            <from>32763124</from>
+            <to>19337002</to>
+         </element>
+         <element>
+            <amount>54.25</amount>
+            <from>33001891</from>
+            <to>19337002</to>
+         </element>
+      </repayments>
+      <repeat_interval>never</repeat_interval>
+      <repeats>false</repeats>
+      <transaction_confirmed>false</transaction_confirmed>
+      <transaction_id null="true" />
+      <transaction_method>offline</transaction_method>
+      <updated_at>2020-05-09T09:56:05Z</updated_at>
+      <updated_by null="true" />
+      <users>
+         <element>
+            <net_balance>162.75</net_balance>
+            <owed_share>54.25</owed_share>
+            <paid_share>217.0</paid_share>
+            <user>
+               <first_name>Yashwant</first_name>
+               <id>19337002</id>
+               <last_name null="true" />
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>19337002</user_id>
+         </element>
+         <element>
+            <net_balance>-54.25</net_balance>
+            <owed_share>54.25</owed_share>
+            <paid_share>0.0</paid_share>
+            <user>
+               <first_name>Hari</first_name>
+               <id>32763083</id>
+               <last_name>Yadav</last_name>
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>32763083</user_id>
+         </element>
+         <element>
+            <net_balance>-54.25</net_balance>
+            <owed_share>54.25</owed_share>
+            <paid_share>0.0</paid_share>
+            <user>
+               <first_name>Vaibhav</first_name>
+               <id>33001891</id>
+               <last_name>Gupta</last_name>
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>33001891</user_id>
+         </element>
+         <element>
+            <net_balance>-54.25</net_balance>
+            <owed_share>54.25</owed_share>
+            <paid_share>0.0</paid_share>
+            <user>
+               <first_name>Kamaljit</first_name>
+               <id>32763124</id>
+               <last_name>Singh</last_name>
+               <picture>
+                  <medium>https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png</medium>
+               </picture>
+            </user>
+            <user_id>32763124</user_id>
+         </element>
+      </users>
+   </element>
+</root>

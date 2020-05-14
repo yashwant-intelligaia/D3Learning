@@ -1,2176 +1,2173 @@
-{
-    "status": "success",
-    "data": [
-        {
-            "id": 984116194,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Daliya",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": false,
-            "email_reminder_in_advance": -1,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "15.0"
-                }
-            ],
-            "date": "2020-05-09T09:56:15Z",
-            "created_at": "2020-05-09T09:56:24Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+[
+    {
+        "id": 984116194,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Daliya",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": false,
+        "email_reminder_in_advance": -1,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "15.0"
+            }
+        ],
+        "date": "2020-05-09T09:56:15Z",
+        "created_at": "2020-05-09T09:56:24Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
             },
-            "updated_at": "2020-05-09T09:56:24Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "15.0",
-                    "net_balance": "-15.0"
-                },
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "15.0",
-                    "net_balance": "15.0"
-                }
-            ]
+            "custom_picture": false
         },
-        {
-            "id": 984116038,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 5pkt, papad, biscuit",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "217.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "54.25"
-                },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "54.25"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "54.25"
-                }
-            ],
-            "date": "2020-05-09T09:51:13Z",
-            "created_at": "2020-05-09T09:56:05Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-09T09:56:05Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "217.0",
-                    "owed_share": "54.25",
-                    "net_balance": "162.75"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "54.25",
-                    "net_balance": "-54.25"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "54.25",
-                    "net_balance": "-54.25"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "54.25",
-                    "net_balance": "-54.25"
-                }
-            ]
+        "updated_at": "2020-05-09T09:56:24Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
         },
-        {
-            "id": 984113467,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Dahi",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "60.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "15.0"
-                },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "15.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "15.0"
-                }
-            ],
-            "date": "2020-05-09T09:50:53Z",
-            "created_at": "2020-05-09T09:51:00Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-09T09:51:00Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "60.0",
-                    "owed_share": "15.0",
-                    "net_balance": "45.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "15.0",
-                    "net_balance": "-15.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "15.0",
-                    "net_balance": "-15.0"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "15.0",
-                    "net_balance": "-15.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 984113400,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 3pkt",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "7.5"
+        "users": [
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
                 },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "7.5"
-                }
-            ],
-            "date": "2020-05-09T09:50:38Z",
-            "created_at": "2020-05-09T09:50:52Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "15.0",
+                "net_balance": "-15.0"
             },
-            "updated_at": "2020-05-09T09:50:52Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "15.0",
+                "net_balance": "15.0"
+            }
+        ]
+    },
+    {
+        "id": 984116038,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 5pkt, papad, biscuit",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "217.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "54.25"
             },
-            "receipt": {
-                "large": null,
-                "original": null
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "54.25"
             },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "7.5",
-                    "net_balance": "22.5"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                }
-            ]
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "54.25"
+            }
+        ],
+        "date": "2020-05-09T09:51:13Z",
+        "created_at": "2020-05-09T09:56:05Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 984113276,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Dahi",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": false,
-            "email_reminder_in_advance": -1,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "7.5"
-                }
-            ],
-            "date": "2020-05-08T09:50:35Z",
-            "created_at": "2020-05-09T09:50:37Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-09T09:50:37Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "7.5",
-                    "net_balance": "22.5"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                }
-            ]
+        "updated_at": "2020-05-09T09:56:05Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
         },
-        {
-            "id": 984113200,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 3pkt",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": false,
-            "email_reminder_in_advance": -1,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "75.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "25.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "25.0"
-                }
-            ],
-            "date": "2020-05-08T09:50:25Z",
-            "created_at": "2020-05-09T09:50:28Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-09T09:50:28Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "75.0",
-                    "owed_share": "25.0",
-                    "net_balance": "50.0"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 983490223,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Suger",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "100.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "25.0"
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 32763124,
-                    "to": 32763083,
-                    "amount": "25.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763083,
-                    "amount": "25.0"
-                }
-            ],
-            "date": "2020-05-08T06:23:36Z",
-            "created_at": "2020-05-08T06:23:53Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "217.0",
+                "owed_share": "54.25",
+                "net_balance": "162.75"
             },
-            "updated_at": "2020-05-08T06:23:53Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "54.25",
+                "net_balance": "-54.25"
             },
-            "receipt": {
-                "large": null,
-                "original": null
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "54.25",
+                "net_balance": "-54.25"
             },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "100.0",
-                    "owed_share": "25.0",
-                    "net_balance": "75.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                }
-            ]
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "54.25",
+                "net_balance": "-54.25"
+            }
+        ]
+    },
+    {
+        "id": 984113467,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Dahi",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "60.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "15.0"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "15.0"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "15.0"
+            }
+        ],
+        "date": "2020-05-09T09:50:53Z",
+        "created_at": "2020-05-09T09:51:00Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 983043374,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Rashan",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "850.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "212.5"
-                },
-                {
-                    "from": 32763124,
-                    "to": 32763083,
-                    "amount": "212.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763083,
-                    "amount": "212.5"
-                }
-            ],
-            "date": "2020-05-07T09:30:27Z",
-            "created_at": "2020-05-07T09:30:41Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T09:30:41Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "212.5",
-                    "net_balance": "-212.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "212.5",
-                    "net_balance": "-212.5"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "850.0",
-                    "owed_share": "212.5",
-                    "net_balance": "637.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "212.5",
-                    "net_balance": "-212.5"
-                }
-            ]
+        "updated_at": "2020-05-09T09:51:00Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
         },
-        {
-            "id": 983042762,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Toothpaste",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "42.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "21.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763083,
-                    "amount": "21.0"
-                }
-            ],
-            "date": "2020-05-07T09:28:50Z",
-            "created_at": "2020-05-07T09:29:09Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T09:29:09Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 14,
-                "name": "Household supplies"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "21.0",
-                    "net_balance": "-21.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "21.0",
-                    "net_balance": "-21.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "42.0",
-                    "owed_share": "0.0",
-                    "net_balance": "42.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 983042118,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Corn flakes",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "120.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "40.0"
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 32763124,
-                    "to": 32763083,
-                    "amount": "40.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763083,
-                    "amount": "40.0"
-                }
-            ],
-            "date": "2020-05-07T09:27:12Z",
-            "created_at": "2020-05-07T09:27:28Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "60.0",
+                "owed_share": "15.0",
+                "net_balance": "45.0"
             },
-            "updated_at": "2020-05-07T09:27:28Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "15.0",
+                "net_balance": "-15.0"
             },
-            "receipt": {
-                "large": null,
-                "original": null
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "15.0",
+                "net_balance": "-15.0"
             },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "40.0",
-                    "net_balance": "-40.0"
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "40.0",
-                    "net_balance": "-40.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "120.0",
-                    "owed_share": "0.0",
-                    "net_balance": "120.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "40.0",
-                    "net_balance": "-40.0"
-                }
-            ]
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "15.0",
+                "net_balance": "-15.0"
+            }
+        ]
+    },
+    {
+        "id": 984113400,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 3pkt",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "7.5"
+            }
+        ],
+        "date": "2020-05-09T09:50:38Z",
+        "created_at": "2020-05-09T09:50:52Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 983041966,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Pickle",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "150.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "50.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763083,
-                    "amount": "50.0"
-                }
-            ],
-            "date": "2020-05-07T09:26:39Z",
-            "created_at": "2020-05-07T09:27:03Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T09:27:03Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "50.0",
-                    "net_balance": "-50.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "50.0",
-                    "net_balance": "-50.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "150.0",
-                    "owed_share": "50.0",
-                    "net_balance": "100.0"
-                }
-            ]
+        "updated_at": "2020-05-09T09:50:52Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
         },
-        {
-            "id": 983041748,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Kaju",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "250.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763083,
-                    "amount": "125.0"
-                }
-            ],
-            "date": "2020-05-07T09:26:15Z",
-            "created_at": "2020-05-07T09:26:32Z",
-            "created_by": {
-                "id": 32763083,
-                "first_name": "Hari",
-                "last_name": "Yadav",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T09:26:32Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "125.0",
-                    "net_balance": "-125.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "250.0",
-                    "owed_share": "125.0",
-                    "net_balance": "125.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 982953451,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Brown bread",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "35.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "17.5"
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "17.5"
-                }
-            ],
-            "date": "2020-05-07T05:19:14Z",
-            "created_at": "2020-05-07T05:19:30Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "7.5",
+                "net_balance": "22.5"
             },
-            "updated_at": "2020-05-07T05:19:30Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "35.0",
-                    "owed_share": "0.0",
-                    "net_balance": "35.0"
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "17.5",
-                    "net_balance": "-17.5"
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "17.5",
-                    "net_balance": "-17.5"
-                }
-            ]
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            }
+        ]
+    },
+    {
+        "id": 984113276,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Dahi",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": false,
+        "email_reminder_in_advance": -1,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "7.5"
+            }
+        ],
+        "date": "2020-05-08T09:50:35Z",
+        "created_at": "2020-05-09T09:50:37Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 982953357,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Dahi",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "7.5"
-                }
-            ],
-            "date": "2020-05-07T05:19:04Z",
-            "created_at": "2020-05-07T05:19:13Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T05:19:13Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "7.5",
-                    "net_balance": "22.5"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                }
-            ]
+        "updated_at": "2020-05-09T09:50:37Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
         },
-        {
-            "id": 982953306,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 3pkt",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "75.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "25.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "25.0"
-                }
-            ],
-            "date": "2020-05-07T05:18:50Z",
-            "created_at": "2020-05-07T05:19:03Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T05:19:03Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "75.0",
-                    "owed_share": "25.0",
-                    "net_balance": "50.0"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 982953247,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Dahi",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": false,
-            "email_reminder_in_advance": -1,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "7.5"
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "7.5"
-                }
-            ],
-            "date": "2020-05-06T05:18:46Z",
-            "created_at": "2020-05-07T05:18:50Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "7.5",
+                "net_balance": "22.5"
             },
-            "updated_at": "2020-05-07T05:18:50Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
             },
-            "receipt": {
-                "large": null,
-                "original": null
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
             },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "7.5",
-                    "net_balance": "22.5"
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                }
-            ]
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            }
+        ]
+    },
+    {
+        "id": 984113200,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 3pkt",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": false,
+        "email_reminder_in_advance": -1,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "75.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "25.0"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "25.0"
+            }
+        ],
+        "date": "2020-05-08T09:50:25Z",
+        "created_at": "2020-05-09T09:50:28Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 982953176,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 3pkt",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": false,
-            "email_reminder_in_advance": -1,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "75.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "25.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "25.0"
-                }
-            ],
-            "date": "2020-05-06T05:18:32Z",
-            "created_at": "2020-05-07T05:18:36Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-07T05:18:36Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "75.0",
-                    "owed_share": "25.0",
-                    "net_balance": "50.0"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                }
-            ]
+        "updated_at": "2020-05-09T09:50:28Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
         },
-        {
-            "id": 981924548,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Besan and moong daal namkeen",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "168.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 19337002,
-                    "to": 32763124,
-                    "amount": "42.0"
-                },
-                {
-                    "from": 32763083,
-                    "to": 32763124,
-                    "amount": "42.0"
-                },
-                {
-                    "from": 33001891,
-                    "to": 32763124,
-                    "amount": "42.0"
-                }
-            ],
-            "date": "2020-05-05T08:34:40Z",
-            "created_at": "2020-05-05T08:34:55Z",
-            "created_by": {
-                "id": 32763124,
-                "first_name": "Kamaljit",
-                "last_name": "Singh",
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                },
-                "custom_picture": false
-            },
-            "updated_at": "2020-05-05T08:34:55Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 18,
-                "name": "General"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "0.0",
-                    "owed_share": "42.0",
-                    "net_balance": "-42.0"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "42.0",
-                    "net_balance": "-42.0"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "168.0",
-                    "owed_share": "42.0",
-                    "net_balance": "126.0"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "42.0",
-                    "net_balance": "-42.0"
-                }
-            ]
+        "receipt": {
+            "large": null,
+            "original": null
         },
-        {
-            "id": 981914480,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Dahi",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "30.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763083,
-                    "to": 19337002,
-                    "amount": "7.5"
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "7.5"
-                },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "7.5"
-                }
-            ],
-            "date": "2020-05-05T08:11:46Z",
-            "created_at": "2020-05-05T08:11:53Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "75.0",
+                "owed_share": "25.0",
+                "net_balance": "50.0"
             },
-            "updated_at": "2020-05-05T08:11:53Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
             },
-            "receipt": {
-                "large": null,
-                "original": null
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            }
+        ]
+    },
+    {
+        "id": 983490223,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Suger",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "100.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "25.0"
             },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "30.0",
-                    "owed_share": "7.5",
-                    "net_balance": "22.5"
-                },
-                {
-                    "user": {
-                        "id": 32763083,
-                        "first_name": "Hari",
-                        "last_name": "Yadav",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
-                        }
-                    },
-                    "user_id": 32763083,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "7.5",
-                    "net_balance": "-7.5"
-                }
-            ]
+            {
+                "from": 32763124,
+                "to": 32763083,
+                "amount": "25.0"
+            },
+            {
+                "from": 33001891,
+                "to": 32763083,
+                "amount": "25.0"
+            }
+        ],
+        "date": "2020-05-08T06:23:36Z",
+        "created_at": "2020-05-08T06:23:53Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
         },
-        {
-            "id": 981914440,
-            "group_id": 18918469,
-            "friendship_id": null,
-            "expense_bundle_id": null,
-            "description": "Milk 3pkt",
-            "repeats": false,
-            "repeat_interval": "never",
-            "email_reminder": true,
-            "email_reminder_in_advance": null,
-            "next_repeat": null,
-            "details": "",
-            "comments_count": 0,
-            "payment": false,
-            "creation_method": "split",
-            "transaction_method": "offline",
-            "transaction_confirmed": false,
-            "transaction_id": null,
-            "cost": "75.0",
-            "currency_code": "INR",
-            "repayments": [
-                {
-                    "from": 32763124,
-                    "to": 19337002,
-                    "amount": "25.0"
+        "updated_at": "2020-05-08T06:23:53Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
                 },
-                {
-                    "from": 33001891,
-                    "to": 19337002,
-                    "amount": "25.0"
-                }
-            ],
-            "date": "2020-05-05T08:11:34Z",
-            "created_at": "2020-05-05T08:11:45Z",
-            "created_by": {
-                "id": 19337002,
-                "first_name": "Yashwant",
-                "last_name": null,
-                "picture": {
-                    "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                },
-                "custom_picture": false
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
             },
-            "updated_at": "2020-05-05T08:11:45Z",
-            "updated_by": null,
-            "deleted_at": null,
-            "deleted_by": null,
-            "category": {
-                "id": 12,
-                "name": "Groceries"
-            },
-            "receipt": {
-                "large": null,
-                "original": null
-            },
-            "users": [
-                {
-                    "user": {
-                        "id": 19337002,
-                        "first_name": "Yashwant",
-                        "last_name": null,
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
-                        }
-                    },
-                    "user_id": 19337002,
-                    "paid_share": "75.0",
-                    "owed_share": "25.0",
-                    "net_balance": "50.0"
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 32763124,
-                        "first_name": "Kamaljit",
-                        "last_name": "Singh",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
-                        }
-                    },
-                    "user_id": 32763124,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
                 },
-                {
-                    "user": {
-                        "id": 33001891,
-                        "first_name": "Vaibhav",
-                        "last_name": "Gupta",
-                        "picture": {
-                            "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
-                        }
-                    },
-                    "user_id": 33001891,
-                    "paid_share": "0.0",
-                    "owed_share": "25.0",
-                    "net_balance": "-25.0"
-                }
-            ]
-        }
-    ]
-}
+                "user_id": 32763083,
+                "paid_share": "100.0",
+                "owed_share": "25.0",
+                "net_balance": "75.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            }
+        ]
+    },
+    {
+        "id": 983043374,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Rashan",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "850.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "212.5"
+            },
+            {
+                "from": 32763124,
+                "to": 32763083,
+                "amount": "212.5"
+            },
+            {
+                "from": 33001891,
+                "to": 32763083,
+                "amount": "212.5"
+            }
+        ],
+        "date": "2020-05-07T09:30:27Z",
+        "created_at": "2020-05-07T09:30:41Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T09:30:41Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "212.5",
+                "net_balance": "-212.5"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "212.5",
+                "net_balance": "-212.5"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "850.0",
+                "owed_share": "212.5",
+                "net_balance": "637.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "212.5",
+                "net_balance": "-212.5"
+            }
+        ]
+    },
+    {
+        "id": 983042762,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Toothpaste",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "42.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "21.0"
+            },
+            {
+                "from": 33001891,
+                "to": 32763083,
+                "amount": "21.0"
+            }
+        ],
+        "date": "2020-05-07T09:28:50Z",
+        "created_at": "2020-05-07T09:29:09Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T09:29:09Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 14,
+            "name": "Household supplies"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "21.0",
+                "net_balance": "-21.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "21.0",
+                "net_balance": "-21.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "42.0",
+                "owed_share": "0.0",
+                "net_balance": "42.0"
+            }
+        ]
+    },
+    {
+        "id": 983042118,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Corn flakes",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "120.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "40.0"
+            },
+            {
+                "from": 32763124,
+                "to": 32763083,
+                "amount": "40.0"
+            },
+            {
+                "from": 33001891,
+                "to": 32763083,
+                "amount": "40.0"
+            }
+        ],
+        "date": "2020-05-07T09:27:12Z",
+        "created_at": "2020-05-07T09:27:28Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T09:27:28Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "40.0",
+                "net_balance": "-40.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "40.0",
+                "net_balance": "-40.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "120.0",
+                "owed_share": "0.0",
+                "net_balance": "120.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "40.0",
+                "net_balance": "-40.0"
+            }
+        ]
+    },
+    {
+        "id": 983041966,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Pickle",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "150.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "50.0"
+            },
+            {
+                "from": 33001891,
+                "to": 32763083,
+                "amount": "50.0"
+            }
+        ],
+        "date": "2020-05-07T09:26:39Z",
+        "created_at": "2020-05-07T09:27:03Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T09:27:03Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "50.0",
+                "net_balance": "-50.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "50.0",
+                "net_balance": "-50.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "150.0",
+                "owed_share": "50.0",
+                "net_balance": "100.0"
+            }
+        ]
+    },
+    {
+        "id": 983041748,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Kaju",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "250.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763083,
+                "amount": "125.0"
+            }
+        ],
+        "date": "2020-05-07T09:26:15Z",
+        "created_at": "2020-05-07T09:26:32Z",
+        "created_by": {
+            "id": 32763083,
+            "first_name": "Hari",
+            "last_name": "Yadav",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T09:26:32Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "125.0",
+                "net_balance": "-125.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "250.0",
+                "owed_share": "125.0",
+                "net_balance": "125.0"
+            }
+        ]
+    },
+    {
+        "id": 982953451,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Brown bread",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "35.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "17.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "17.5"
+            }
+        ],
+        "date": "2020-05-07T05:19:14Z",
+        "created_at": "2020-05-07T05:19:30Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T05:19:30Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "35.0",
+                "owed_share": "0.0",
+                "net_balance": "35.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "17.5",
+                "net_balance": "-17.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "17.5",
+                "net_balance": "-17.5"
+            }
+        ]
+    },
+    {
+        "id": 982953357,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Dahi",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "7.5"
+            }
+        ],
+        "date": "2020-05-07T05:19:04Z",
+        "created_at": "2020-05-07T05:19:13Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T05:19:13Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "7.5",
+                "net_balance": "22.5"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            }
+        ]
+    },
+    {
+        "id": 982953306,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 3pkt",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "75.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "25.0"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "25.0"
+            }
+        ],
+        "date": "2020-05-07T05:18:50Z",
+        "created_at": "2020-05-07T05:19:03Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T05:19:03Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "75.0",
+                "owed_share": "25.0",
+                "net_balance": "50.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            }
+        ]
+    },
+    {
+        "id": 982953247,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Dahi",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": false,
+        "email_reminder_in_advance": -1,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "7.5"
+            }
+        ],
+        "date": "2020-05-06T05:18:46Z",
+        "created_at": "2020-05-07T05:18:50Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T05:18:50Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "7.5",
+                "net_balance": "22.5"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            }
+        ]
+    },
+    {
+        "id": 982953176,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 3pkt",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": false,
+        "email_reminder_in_advance": -1,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "75.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "25.0"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "25.0"
+            }
+        ],
+        "date": "2020-05-06T05:18:32Z",
+        "created_at": "2020-05-07T05:18:36Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-07T05:18:36Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "75.0",
+                "owed_share": "25.0",
+                "net_balance": "50.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            }
+        ]
+    },
+    {
+        "id": 981924548,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Besan and moong daal namkeen",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "168.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 19337002,
+                "to": 32763124,
+                "amount": "42.0"
+            },
+            {
+                "from": 32763083,
+                "to": 32763124,
+                "amount": "42.0"
+            },
+            {
+                "from": 33001891,
+                "to": 32763124,
+                "amount": "42.0"
+            }
+        ],
+        "date": "2020-05-05T08:34:40Z",
+        "created_at": "2020-05-05T08:34:55Z",
+        "created_by": {
+            "id": 32763124,
+            "first_name": "Kamaljit",
+            "last_name": "Singh",
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-05T08:34:55Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 18,
+            "name": "General"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "0.0",
+                "owed_share": "42.0",
+                "net_balance": "-42.0"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "42.0",
+                "net_balance": "-42.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "168.0",
+                "owed_share": "42.0",
+                "net_balance": "126.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "42.0",
+                "net_balance": "-42.0"
+            }
+        ]
+    },
+    {
+        "id": 981914480,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Dahi",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "30.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763083,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "7.5"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "7.5"
+            }
+        ],
+        "date": "2020-05-05T08:11:46Z",
+        "created_at": "2020-05-05T08:11:53Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-05T08:11:53Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "30.0",
+                "owed_share": "7.5",
+                "net_balance": "22.5"
+            },
+            {
+                "user": {
+                    "id": 32763083,
+                    "first_name": "Hari",
+                    "last_name": "Yadav",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue42-100px.png"
+                    }
+                },
+                "user_id": 32763083,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "7.5",
+                "net_balance": "-7.5"
+            }
+        ]
+    },
+    {
+        "id": 981914440,
+        "group_id": 18918469,
+        "friendship_id": null,
+        "expense_bundle_id": null,
+        "description": "Milk 3pkt",
+        "repeats": false,
+        "repeat_interval": "never",
+        "email_reminder": true,
+        "email_reminder_in_advance": null,
+        "next_repeat": null,
+        "details": "",
+        "comments_count": 0,
+        "payment": false,
+        "creation_method": "split",
+        "transaction_method": "offline",
+        "transaction_confirmed": false,
+        "transaction_id": null,
+        "cost": "75.0",
+        "currency_code": "INR",
+        "repayments": [
+            {
+                "from": 32763124,
+                "to": 19337002,
+                "amount": "25.0"
+            },
+            {
+                "from": 33001891,
+                "to": 19337002,
+                "amount": "25.0"
+            }
+        ],
+        "date": "2020-05-05T08:11:34Z",
+        "created_at": "2020-05-05T08:11:45Z",
+        "created_by": {
+            "id": 19337002,
+            "first_name": "Yashwant",
+            "last_name": null,
+            "picture": {
+                "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+            },
+            "custom_picture": false
+        },
+        "updated_at": "2020-05-05T08:11:45Z",
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "category": {
+            "id": 12,
+            "name": "Groceries"
+        },
+        "receipt": {
+            "large": null,
+            "original": null
+        },
+        "users": [
+            {
+                "user": {
+                    "id": 19337002,
+                    "first_name": "Yashwant",
+                    "last_name": null,
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-orange28-100px.png"
+                    }
+                },
+                "user_id": 19337002,
+                "paid_share": "75.0",
+                "owed_share": "25.0",
+                "net_balance": "50.0"
+            },
+            {
+                "user": {
+                    "id": 32763124,
+                    "first_name": "Kamaljit",
+                    "last_name": "Singh",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-teal36-100px.png"
+                    }
+                },
+                "user_id": 32763124,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            },
+            {
+                "user": {
+                    "id": 33001891,
+                    "first_name": "Vaibhav",
+                    "last_name": "Gupta",
+                    "picture": {
+                        "medium": "https://s3.amazonaws.com/splitwise/uploads/user/default_avatars/avatar-blue43-100px.png"
+                    }
+                },
+                "user_id": 33001891,
+                "paid_share": "0.0",
+                "owed_share": "25.0",
+                "net_balance": "-25.0"
+            }
+        ]
+    }
+]
