@@ -19,7 +19,7 @@ function view(fileName){
 }
 
 app.get('/', urlencodedParser, function (req, res) {
-  res.sendFile(view('graph_v1'));
+  res.sendFile(view('graph_v2'));
 });
 
 app.get('/groups', function(req, res){

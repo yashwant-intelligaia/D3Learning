@@ -1,0 +1,10 @@
+var arr = [1,4,3,2,6];
+console.log('min',d3.min(arr));
+console.log('max',d3.max(arr));
+console.log('extent',d3.extent(arr));
+console.log('sum',d3.sum(arr));
+console.log('mean',d3.mean(arr));
+console.log('median',d3.median(arr));
+console.log('quantile',d3.quantile(arr,0.5));
+console.log('variance',d3.variance(arr));
+console.log('deviation',d3.deviation(arr));
