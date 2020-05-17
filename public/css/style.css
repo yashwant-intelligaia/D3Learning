@@ -20,3 +20,13 @@ g.tick text{
     fill:none;
     stroke:green;
 } */
+
+g.polygons path {
+    fill: white;
+    stroke: lightsteelblue;
+  }
+
+
+  g.fuel circle {
+    fill: steelblue;
+  }
