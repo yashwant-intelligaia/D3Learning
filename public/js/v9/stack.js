@@ -1,7 +1,7 @@
 var parseDate = d3.timeParse("%Y");
 d3.xml("asset/other/data2.xml").get(function(error, xml){
-    var height = 200;
-    var width = 500;
+    var height = 400;
+    var width = 800;
     var margin = {left: 50, right: 50, top:40, bottom:0};
 
     xml = [].map.call(xml.querySelectorAll("dat"), function(d){
@@ -37,7 +37,7 @@ d3.xml("asset/other/data2.xml").get(function(error, xml){
                     .curve(d3.curveCardinal)
 
     var svg = d3.select("body").append("svg").attr("width",width+100).attr("height",height+100);
-    
+
     var chartGroup = svg.append("g").attr("transform", "translate("+margin.left+","+margin.top+")");
     chartGroup.append("g").attr("class","x axis")
                             .attr("transform","translate(0,"+height+")")
