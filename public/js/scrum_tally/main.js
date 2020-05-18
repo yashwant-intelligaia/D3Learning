@@ -1,7 +1,8 @@
 // set the dimensions and margins of the graph
 var margin = {top: 20, right: 30, bottom: 40, left: 120},
+    header = 20, //header space
     width = 460 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    height = 400 - margin.top - margin.bottom - header;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -17,12 +18,11 @@ var svg = d3.select("#my_dataviz")
 d3.csv("/asset/csv/scrum_tally.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
-    // .domain(d3.extent(data, function(d){return parseInt(d.Value)}))
-    .domain([d3.min(data, function(d){return parseInt(d.Value)}),d3.max(data, function(d){return parseInt(d.Value)})])
+    .domain(d3.extent(data, function(d){return parseInt(d.Value)}))
     .range([ 0, width]);
 
   svg.append("g")
-    .attr("transform", "translate(0," + (height-50) + ")")
+    .attr("transform", "translate(0," + (height-margin.bottom) + ")")
     .call(d3.axisBottom(x))
     .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
@@ -36,11 +36,19 @@ d3.csv("/asset/csv/scrum_tally.csv", function(data) {
     .attr("x", width/2)
     .attr("stroke", "black")
     .attr("font-size", "14px")
-    .text("Year");
+    .text("Figure");
+
+    d3.select("svg")
+    .select("g")
+    .append("g")
+    .append("text")
+    .text("Team Leads scrum tally")
+    .attr("font-size","18px")
+    .attr("stroke", "black");
 
   // Y axis
   var y = d3.scaleBand()
-    .range([ 0, height-50 ])
+    .range([ header, height-margin.bottom ])
     .domain(data.map(function(d) { return d.Scrum_Master; }))
     .padding(.1);
   svg.append("g")
@@ -64,12 +72,4 @@ d3.csv("/asset/csv/scrum_tally.csv", function(data) {
     .attr("width", function(d) { return x(d.Value); })
     .attr("height", y.bandwidth() )
     .attr("fill", "rgb(17, 141, 255)")
-
-
-    // .attr("x", function(d) { return x(d.Country); })
-    // .attr("y", function(d) { return y(d.Value); })
-    // .attr("width", x.bandwidth())
-    // .attr("height", function(d) { return height - y(d.Value); })
-    // .attr("fill", "#69b3a2")
-
 })

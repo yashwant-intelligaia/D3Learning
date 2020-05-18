@@ -19,7 +19,7 @@ function view(fileName){
 }
 
 app.get('/', urlencodedParser, function (req, res) {
-  res.sendFile(view('scrum_tally'));
+  res.sendFile(view('team_bandwidth'));
 });
 
 app.get('/groups', function(req, res){
