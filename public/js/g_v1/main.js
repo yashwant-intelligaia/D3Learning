@@ -24,15 +24,15 @@ d3.csv("/asset/csv/data.csv", function(data) {
 //   console.log(domainArray);
 //   var max = d3.max(data, function(d){ return parseInt(d.week)});
 //   console.log(max);
-  
-//   var min = d3.min(data, function(d){ return parseInt(d.week)});
+
+//   var min = d3.min(data, f2525unction(d){ return parseInt(d.week)});
 //   console.log(min);
 
   var x = d3.scaleLinear()
     .domain(d3.extent(data, function(d) { return parseInt(d.week); }))
     .range([ 0, width ]);
-    
-    
+
+
   svg.append("g")
     .attr("transform", "translate(0," + height*0.8 + ")")
     // .call(d3.axisBottom(x).tickSize(-height*.7).tickValues([10, 12, 14, 16]))
@@ -45,18 +45,18 @@ d3.csv("/asset/csv/data.csv", function(data) {
   svg.append("text")
       .attr("text-anchor", "end")
       .attr("x", width/2)
-      .attr("y", height-30 )
+      .attr("y", height+30 )
       .text("Time (year)");
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([-15, 25])
+    .domain([0,25])
     .range([ height, 0 ]);
 
   // color palette
   var color = d3.scaleOrdinal()
     .domain(keys)
-    .range(d3.schemeDark2);
+    .range(d3.schemeCategory10);
 
   //stack the data?
   var stackedData = d3.stack()
