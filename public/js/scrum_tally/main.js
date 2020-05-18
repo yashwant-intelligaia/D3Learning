@@ -13,11 +13,11 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // Parse the Data
-d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv", function(data) {
-
+d3.csv("/asset/csv/scrum_tally.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 13000])
+    // .domain([0, 50])
+    .domain(d3.extent(data, function(d){return parseInt(d.Value)}))
     .range([ 0, width]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -29,7 +29,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_data
   // Y axis
   var y = d3.scaleBand()
     .range([ 0, height ])
-    .domain(data.map(function(d) { return d.Country; }))
+    .domain(data.map(function(d) { return d.Scrum_Master; }))
     .padding(.1);
   svg.append("g")
     .call(d3.axisLeft(y))
@@ -40,10 +40,10 @@ d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_data
     .enter()
     .append("rect")
     .attr("x", x(0) )
-    .attr("y", function(d) { return y(d.Country); })
+    .attr("y", function(d) { return y(d.Scrum_Master); })
     .attr("width", function(d) { return x(d.Value); })
     .attr("height", y.bandwidth() )
-    .attr("fill", "#69b3a2")
+    .attr("fill", "rgb(17, 141, 255)")
 
 
     // .attr("x", function(d) { return x(d.Country); })
